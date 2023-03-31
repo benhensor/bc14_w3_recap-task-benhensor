@@ -6,7 +6,7 @@ Your challenge is to design a website all about the most amazing person: YOU! Yo
 
 Follow the Design Thinking Process and UX/UI planning we've covered this week. Be sure to document (notes, screenshots, etc.) each stage of your planning in this repository before you build, including:
 
-- Create user personas and user stories - who will be using your app? What needs will this app fulfill? Add your user stories and personas to this repo.
+- Create user personas and user stories - who will be using your app? What needs will this app fulfill? Add your user stories and personas to this repo.✅
 - Plan your design, and create your wireframes. Download or screenshot them from whatever tool you're using and add them to this repo.
 - Create a high-fidelity design which looks like the end-product you are hoping to build. Ensure you commit once you've completed your design process!
 
